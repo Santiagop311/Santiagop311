@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./santiago-wizard-coder-fixed.gif" width="650" alt="Magical programmer"/>
+  <img src="./santiago-wizard-coder-fixed (1).gif" width="650" alt="Magical programmer"/>
 </p>
 
 
