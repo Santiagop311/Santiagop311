@@ -1,6 +1,8 @@
- <p align="center">
-  <img src="./santiago-wizard-coder.gif" width="650" alt="Magical coding wizard"/>
+
+<p align="center">
+  <img src="./santiago-wizard-coder-fixed.gif" width="650" alt="Magical programmer"/>
 </p>
+
 
 <h1 align="center">¡Hola! 👋 Soy Santiago Parra</h1>
 
