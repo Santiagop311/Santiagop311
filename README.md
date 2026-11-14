@@ -45,6 +45,7 @@ Me interesa construir soluciones tecnológicas, desarrollar APIs y crear aplicac
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,astro,tailwind" />
 </p>
 
+
 **Bases de datos y herramientas**
 
 <p>
@@ -52,3 +53,18 @@ Me interesa construir soluciones tecnológicas, desarrollar APIs y crear aplicac
 </p>
 
 ---
+
+## 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://github.com/SantiagoP311">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portafolio-santiago-parra-murillo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-39A900?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:santiagoparramuri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
